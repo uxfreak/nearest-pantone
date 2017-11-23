@@ -8,20 +8,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/uxfreak/color_name.git"
+    "url": "git+https://github.com/uxfreak/nearest-pantone.git"
   },
   "keywords": [
     "Pantone",
     "color",
     "color_name",
-    "hex-to-pantone"
+    "hex-to-pantone",
+    "nearest-pantone"
   ],
   "author": "Saurabh Suman",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/uxfreak/color_name/issues"
+    "url": "https://github.com/uxfreak/nearest-pantone/issues"
   },
-  "homepage": "https://github.com/uxfreak/color_name#readme",
+  "homepage": "https://github.com/uxfreak/nearest-pantone#readme",
   "dependencies": {
     "color-diff": "^1.1.0",
     "hex-rgb": "^1.0.0",

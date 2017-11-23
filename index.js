@@ -1,3 +1,5 @@
+// Get nearest pantone
+
 const hexRgb = require('hex-rgb'); 
 const rgbHex = require('rgb-hex');
 const diff = require('color-diff');
