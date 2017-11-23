@@ -1,6 +1,6 @@
 {
   "name": "nearest-pantone",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A JavaScript library which returns the pantone names of a hex color",
   "main": "index.js",
   "scripts": {
