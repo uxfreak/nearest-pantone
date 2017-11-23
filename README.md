@@ -55,7 +55,7 @@ const pantoneColor = pant.getClosestColor(inputColor)
 
 console.log(pantoneColor.name)
 
-// prints : sunburn
+// sunburn
 ```
 
 ## Built With
