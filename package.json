@@ -1,0 +1,30 @@
+{
+  "name": "nearest-pantone",
+  "version": "1.0.0",
+  "description": "A JavaScript library which returns the pantone names of a hex color",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uxfreak/color_name.git"
+  },
+  "keywords": [
+    "Pantone",
+    "color",
+    "color_name",
+    "hex-to-pantone"
+  ],
+  "author": "Saurabh Suman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uxfreak/color_name/issues"
+  },
+  "homepage": "https://github.com/uxfreak/color_name#readme",
+  "dependencies": {
+    "color-diff": "^1.1.0",
+    "hex-rgb": "^1.0.0",
+    "rgb-hex": "^2.1.0"
+  }
+}
